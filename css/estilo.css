@@ -1,0 +1,192 @@
+
+#principal{
+  
+	width: 900px;
+	height: auto; vertical-align: bottom;
+	border: 1px solid #000;
+	margin: auto;
+    background-color: ivory;
+}
+body{
+    background-color: orange;
+   font-size: 14px; 
+}
+
+header{
+    display: inline
+	width: 900px;
+	height: 110px;
+	border: 0px solid #000;
+    background-color: cornsilk;
+}
+
+#logo{
+	width: 900px;
+	height: 20px;
+	border: 0px solid #000;
+	float: left; font-family: sans-serif;
+}
+
+.titulo{
+	margin-top: 25px;
+	font-size: 40px;
+}
+
+.sub-titulo{
+	font-size: 19px;
+	margin-top: -25px;
+}
+
+#slide{
+	margin-top: -5px;
+	width: 900px;
+	height: 250px;
+}
+.menus{
+	width: 901px;
+	height: 80px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-top: 10px;
+	background: green;
+}
+.menus ul{}
+
+.menus ul li{
+	list-style: none;
+	float: left;
+}
+
+.menus ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid blue;
+	color: #fff; 
+}
+
+#categorias{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 1px solid;
+	margin-top: 10px;
+    background-color: ivory;
+}
+
+.uno{
+	width: 280px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	color: #4682b4;
+}
+
+.parrafo{
+	color: #707070;
+	text-align: justify;
+}
+.dos{
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+
+.uno ul{}
+
+.uno ul li{
+	list-style: none;
+	float: inherit;
+}
+
+.uno ul li a{
+	text-decoration: none;
+	padding: 7px 10px;
+	border: 1px solid green;
+	color: blue; 
+}
+.leer-mas{
+	text-decoration: none;
+	border: 1px solid #006699;
+	padding: 10px 20px 10px 20px;
+	margin-bottom: 10px;
+}
+
+.leer-mas:hover{
+	background: #006699;
+	color: red;
+	transition: background 1s, color 1s;
+}
+
+
+#info{
+	width: 900px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+	margin-top: 10px; color;
+    background-color: ivory;
+}
+
+#izq{
+	width: 585px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 7px; color: #4682b4;
+}
+
+.img{
+	margin-right: 7px;
+	margin-bottom: 7px;
+}
+
+
+#der{
+	width: 290px;
+	height: 300px;
+	border: 1px solid #ccc;
+	float: right;
+	color: 
+}
+
+footer{
+	width: 900px;
+	height: 100px;
+	text-align: center;
+}
+
+#footer p{
+	width: 500px;
+}
+/* imagenes ============*/
+.imagenes2{}
+
+.imagenes2 ul li{
+    list-style: none;
+    float: left;
+  
+}
+.imagenes2{
+    position: relative;
+    top: 10px;
+    width: 90%;
+    height: 250px;
+    background: green;
+}
+.imgenes2.list-image li{
+    margin: 5px;
+    margin-bottom: 5px;
+} 
+.imagenes2.list-image li image{
+    position: relative;
+    width: 250px;
+    height: 150px,
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* transporte ============*/
+    
+  
